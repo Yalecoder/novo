@@ -1,0 +1,1 @@
+ALTER TABLE `farmersArea` ADD `observation` text;
